@@ -877,6 +877,8 @@ http://s.only4.tv/5530/index.m3u8?token=zoCHqBtVEo
 http://s.only4.tv/5532/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 group-title="Спорт БезГраниц" tvg-id="drive" tvg-logo="http://1lot.tv/ch/5563.png" ,Драйв
 http://s.only4.tv/5563/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт БезГраниц" tvg-id="russky-ekstrim" tvg-logo="http://1lot.tv/ch/0143.png" ,Russian Extreme HD
+http://s.only4.tv/0143/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 group-title="Спорт БезГраниц" tvg-id="start" tvg-logo="http://1lot.tv/ch/6261.png" ,Старт HD
 http://s.only4.tv/6261/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 group-title="Спорт БезГраниц" tvg-id="start-triumf" tvg-logo="http://1lot.tv/ch/9663.png" ,Старт Баскет
@@ -1353,79 +1355,4 @@ http://s.only4.tv/9131/index.m3u8?token=zoCHqBtVEo
 
 
 
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football1" tvg-logo="http://1lot.tv/ch/14115.png" ,Матч! Футбол 1 HD (orig)
-http://s.only4.tv/14115/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football1" tvg-logo="http://1lot.tv/ch/14105.png" ,Матч! Футбол 1 HD
-http://s.only4.tv/14105/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football2" tvg-logo="http://1lot.tv/ch/1411.png" ,Матч! Футбол 2 HD (orig)
-http://s.only4.tv/1411/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football2" tvg-logo="http://1lot.tv/ch/1401.png" ,Матч! Футбол 2 HD
-http://s.only4.tv/1401/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football3" tvg-logo="http://1lot.tv/ch/1412.png" ,Матч! Футбол 3 HD (orig)
-http://s.only4.tv/1412/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football3" tvg-logo="http://1lot.tv/ch/1402.png" ,Матч! Футбол 3 HD
-http://s.only4.tv/1402/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football1" tvg-logo="http://1lot.tv/ch/1305.png" ,Матч! Футбол 1
-http://s.only4.tv/1305/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football2" tvg-logo="http://1lot.tv/ch/1306.png" ,Матч! Футбол 2
-http://s.only4.tv/1306/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football3" tvg-logo="http://1lot.tv/ch/1307.png" ,Матч! Футбол 3
-http://s.only4.tv/1307/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-igra" tvg-logo="http://1lot.tv/ch/1215.png" ,Матч! Игра HD (orig)
-http://s.only4.tv/1215/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-igra" tvg-logo="http://1lot.tv/ch/0215.png" ,Матч! Игра HD
-http://s.only4.tv/0215/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-igra" tvg-logo="http://1lot.tv/ch/1303.png" ,Матч! Игра
-http://s.only4.tv/1303/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-arena" tvg-logo="http://1lot.tv/ch/12114.png" ,Матч! Арена HD (orig)
-http://s.only4.tv/12114/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-arena" tvg-logo="http://1lot.tv/ch/12104.png" ,Матч! Арена HD
-http://s.only4.tv/12104/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-arena" tvg-logo="http://1lot.tv/ch/1301.png" ,Матч! Арена
-http://s.only4.tv/1301/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" tvg-logo="http://1lot.tv/ch/2214.png" ,Матч! ТВ HD (orig)
-http://s.only4.tv/2214/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" tvg-logo="http://1lot.tv/ch/2204.png" ,Матч! ТВ HD
-http://s.only4.tv/2204/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" tvg-logo="http://1lot.tv/ch/2224.png" ,Матч! ТВ
-http://s.only4.tv/2224/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="http://1lot.tv/ch/7988.png" ,Телеканал Футбол HD
-http://s.only4.tv/7988/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="http://1lot.tv/ch/5567.png" ,Телеканал Футбол
-http://s.only4.tv/5567/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="http://1lot.tv/ch/0162.png" ,Sport 1 (UA)
-http://s.only4.tv/0162/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="http://1lot.tv/ch/5569.png" ,Sport 2 (UA)
-http://s.only4.tv/5569/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="sport3-ua" tvg-logo="http://1lot.tv/ch/10680.png" ,Sport 3 (UA)
-http://s.only4.tv/10680/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="sport4-ua" tvg-logo="http://1lot.tv/ch/10681.png" ,Sport 4 (UA)
-http://s.only4.tv/10681/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-premier" tvg-logo="http://1lot.tv/ch/1413.png" ,Матч! Премьер HD (orig)
-http://s.only4.tv/1413/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-premier" tvg-logo="http://1lot.tv/ch/1403.png" ,Матч! Премьер HD
-http://s.only4.tv/1403/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-premier" tvg-logo="http://1lot.tv/ch/1423.png" ,Матч! Премьер
-http://s.only4.tv/1423/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-boets" tvg-logo="http://1lot.tv/ch/10679.png" ,Матч! Боец HD
-http://s.only4.tv/10679/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-boets" tvg-logo="http://1lot.tv/ch/1302.png" ,Матч! Боец
-http://s.only4.tv/1302/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-planeta" tvg-logo="http://1lot.tv/ch/5528.png" ,Матч! Планета
-http://s.only4.tv/5528/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport" tvg-logo="http://1lot.tv/ch/6637.png" ,Матч! Страна
-http://s.only4.tv/6637/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="box-tv" tvg-logo="http://1lot.tv/ch/8824.png" ,Бокс ТВ HD
-http://s.only4.tv/8824/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="box-tv" tvg-logo="http://1lot.tv/ch/422.png" ,Бокс ТВ
-http://s.only4.tv/422/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim" tvg-logo="http://1lot.tv/ch/0143.png" ,Russian Extreme HD
-http://s.only4.tv/0143/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="http://1lot.tv/ch/19109.png" ,Extreme Sports Channel
-http://s.only4.tv/19109/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="http://1lot.tv/ch/5568.png" ,Viju+ Sport HD
-http://s.only4.tv/5568/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd" tvg-logo="http://1lot.tv/ch/0206.png" ,KHL Prime HD
-http://s.only4.tv/0206/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl" tvg-logo="http://1lot.tv/ch/1318.png" ,KHL ТВ
-http://s.only4.tv/1318/index.m3u8?token=zoCHqBtVEo
+
