@@ -305,6 +305,163 @@ https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общие БезГраниц",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Общие БезГраниц",Первый канал Int
+https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц",РТР-Планета Int
+https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+1)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+2)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+3)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+4)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+5)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+6)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+7)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+8)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц", Россия 1 (+9)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц",Россия Культура HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц",Россия К Int
+https://ucdn.beetv.kz/bpk-tv/000000066/tve/index.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц",Россия 24 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие БезГраниц",Россия 24 Int
+https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8
+#EXTINF:-1 group-title="Новости",Соловьев Live HD
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1 group-title="Новости",Известия HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Пятый канал Int
+https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ МИР Int
+https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ HD
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:-1 group-title="Общие" ,НТВ +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="Общие",НТВ +2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="Общие",НТВ +4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 group-title="Общие",НТВ +7
+http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Сериал HD
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Хит HD
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Общие",НТВ Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Общие",НТВ Стиль
+http://cdn2.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Сериал Int
+https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Стиль Int
+https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Право Int
+https://ucdn.beetv.kz/bpk-tv/000002759/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="Кино",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="Кино",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="Кино",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="Кино",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="Кино",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="Кино",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Кино",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Общие",ТВ 3 Int
+https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=wc2lxs8E3F2M8o_Zck0uTg&e=2079350331&scheme=https
+#EXTINF:-1 group-title="Общие",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие",МИР Int
+https://ucdn.beetv.kz/bpk-tv/000002555/tve/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +2.png" group-title="Общие",Мир +2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +4.png" group-title="Общие",Мир +4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +7.png" group-title="Общие",Мир +7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="Общие",Мир 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие",МИР 24 Int
+https://ucdn.beetv.kz/bpk-tv/000002557/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВЦ Int
+https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Рен ТВ Int
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Общие",Домашний Int
+https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",СТС Int
+https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",СТС Love
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 group-title="Общие",Среда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=85S1boa8AU9oQOlUI0Erqw&e=2079350355&scheme=https
+#EXTINF:-1 group-title="Общие",Пятница Int
+https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Пятница HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=z2wTSeENXI_4KRYyS2Bqdw&e=2079350330&scheme=https
+#EXTINF:-1 group-title="Общие",Суббота
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=EyFeMl0b8JXZJFUBrnX0LQ&e=2079350333&scheme=https
+#EXTINF:-1 group-title="Общие",Перец Int
+https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=7Ju4-rSMdnfKwL5SXzz4PA&e=2079350328&scheme=https
+#EXTINF:-1 group-title="Общие",ТНТ4 Int
+https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tswiQcMZJgHLjB1i9eZRNg&e=2079350329&scheme=https
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jVQFbhS5-99IUd2CMC2fTw&e=2075026756&scheme=https
+#EXTINF:-1 group-title="Общие",Центральное Телевидение
+https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=WAvCajqdchAMLcHlt7yRmA&e=2079350392&scheme=https
+
+
 
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="vip-megahit" tvg-logo="http://1lot.tv/ch/17103.png" ,Viju+ Megahit HD
 http://s.only4.tv/17103/index.m3u8?token=zoCHqBtVEo
