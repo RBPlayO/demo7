@@ -162,12 +162,14 @@ http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка" ,Mezzo
 https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 group-title="Музыка",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTxqD1rq/image-43.png" group-title="Спорт",KHL HD
 https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Планета
-http://tinyurl.com/TvZaTak65?id=matchplaneta
+#EXTINF:-1 group-title="Спорт" ,Viju+ Sport
+https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 group-title="Детям" ,Nick Jr
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
 #EXTINF:-1 group-title="Детям" ,Лапки LIVE
