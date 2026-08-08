@@ -309,9 +309,9 @@ https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="vip-megahit" tvg-logo="http://1lot.tv/ch/17103.png" ,Viju+ Megahit HD
 http://s.only4.tv/17103/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="vip-premiere" tvg-logo="http://1lot.tv/ch/17104.png" ,Viju+ Premiere HD
-http://s.only4.tv/17104/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/17114/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="vip-comedy" tvg-logo="http://1lot.tv/ch/17102.png" ,Viju+ Comedy HD
-http://s.only4.tv/17102/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/17112/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="vip-serial" tvg-logo="http://1lot.tv/ch/0109.png" ,Viju+ Serial HD
 http://s.only4.tv/0109/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="premialnoe-hd" tvg-logo="http://1lot.tv/ch/0121.png" ,Премиальное HD
