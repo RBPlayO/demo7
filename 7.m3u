@@ -1342,3 +1342,22 @@ http://s.only4.tv/10798/index.m3u8?token=zoCHqBtVEo
 http://s.only4.tv/9130/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="q-kino-alem" tvg-logo="http://1lot.tv/ch/9131.png" ,Кино Сериал HD
 http://s.only4.tv/9131/index.m3u8?token=zoCHqBtVEo
+
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000" tvg-logo="http://1lot.tv/ch/19102.png" ,Viju TV1000
+http://s.only4.tv/19102/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-worldkino" tvg-logo="http://1lot.tv/ch/6300.png" ,Viasat Kino World
+http://s.only4.tv/6300/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-action-cee" tvg-logo="http://1lot.tv/ch/7735.png" ,Viasat Kino Action HD
+http://s.only4.tv/7735/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-cee" tvg-logo="http://1lot.tv/ch/7737.png" ,Viasat Kino HD
+http://s.only4.tv/7737/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="IPTVPLAY10KOROLEVSTVO.tv" tvg-logo="http://1lot.tv/ch/19118.png" ,Десятое Королевство
+http://s.only4.tv/19118/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="http://1lot.tv/ch/6266.png" ,Мужское Кино HD
+http://s.only4.tv/6266/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="http://1lot.tv/ch/0287.png" ,Мужское Кино
+http://s.only4.tv/0287/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" tvg-logo="http://1lot.tv/ch/0147.png" ,Кино ТВ
+http://s.only4.tv/0147/index.m3u8?token=zoCHqBtVEo
